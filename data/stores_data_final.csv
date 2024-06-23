@@ -1,0 +1,11 @@
+id,Restaurant Name,Location,Email,Owner,Phone Number,Opening Hours,Seating Capacity,Latitude,Longitude
+1,The Rustic Spoon,"15 Rue de Rivoli, 75001 Paris",info@rusticspoon.com,John Smith,555-123-4567,"Mon-Sat 11AM-9PM, Sun 12PM-8PM",50,48.8566,2.3522
+2,Savory Bites,"25 Avenue des Champs-Élysées, 75008 Paris",contact@savorybites.com,Sarah Johnson,555-987-6543,Tue-Sun 5PM-10PM,40,48.8667,2.3122
+3,Spice Fusion,"35 Rue de la Paix, 75002 Paris",hello@spicefusionrestaurant.com,Michael Chang,555-555-5555,Mon-Sun 12PM-11PM,60,48.868,2.3311
+4,Urban Grill,"45 Boulevard Saint-Germain, 75005 Paris",info@urbangrill.com,Emily Brown,555-444-3333,"Mon-Fri 10AM-10PM, Sat-Sun 12PM-10PM",80,48.852,2.351
+5,Seafood Delight,"55 Rue de la Roquette, 75011 Paris",contact@seafooddelight.com,James Wilson,555-222-1111,Mon-Sun 11AM-10PM,100,48.8556,2.375
+6,Café Mocha,"65 Rue du Faubourg Saint-Honoré, 75008 Paris",info@cafemocha.com,Laura Davis,555-666-7777,"Mon-Fri 7AM-7PM, Sat-Sun 8AM-6PM",30,48.87,2.3151
+7,Green Garden,"75 Rue de Belleville, 75020 Paris",contact@greengarden.com,David Martinez,555-888-9999,Mon-Sun 10AM-8PM,70,48.8756,2.3771
+8,Steak House,"85 Rue de Vaugirard, 75015 Paris",info@steakhouse.com,Sophia Lee,555-000-1111,"Mon-Sat 5PM-11PM, Sun Closed",90,48.842,2.3181
+9,Pasta Paradise,"95 Rue des Martyrs, 75009 Paris",contact@pastaparadise.com,Daniel Kim,555-222-3333,Mon-Sun 11AM-9PM,55,48.8817,2.3421
+10,Sushi World,"105 Rue du Bac, 75007 Paris",info@sushiworld.com,Amy Anderson,555-444-5555,Mon-Sun 11AM-11PM,65,48.8578,2.324
